@@ -1,0 +1,20 @@
+# binaries
+*.exe
+*.out
+*.test
+*.dll
+*.so
+*.dylib
+*.app
+
+# go build cache
+/bin/
+/dist/
+
+# editor
+.DS_Store
+.vscode/
+.idea/
+
+# secrets
+.env
